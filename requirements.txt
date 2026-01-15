@@ -1,0 +1,8 @@
+streamlit>=1.28
+yt-dlp>=2023.10
+openai-whisper
+torch
+numpy
+
+
+
